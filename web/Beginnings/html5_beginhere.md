@@ -60,6 +60,10 @@ HTML5 is the latest version of the Hypertext Markup Language (HTML), used to str
             <h2>About Us</h2>
             <p>Information about our company.</p>
         </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>How to get in touch with us.</p>
+        </section>
         <article>
             <h3>Latest News</h3>
             <p>Some recent news article.</p>
