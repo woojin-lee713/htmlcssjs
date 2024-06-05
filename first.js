@@ -2,7 +2,8 @@ var x = 10;
 let y = 20;
 const z = 30;
 
-y = 21;
+//y = 21;
+//var x = 100;
 
 function example() {
   var x = 1;
